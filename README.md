@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @santhosh kumar mallavarapu
-- 👀 I’m interested in backend developer
-- 🌱 I’m currently learning advanced python
-- 💞️ I’m looking to collaborate on other content github
+- 👋 Hi, I’m SANTHOSH KUMAR MALLAVARAPU
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning advanced python and SQL
+- 💞️ I’m looking to collaborate on other content github 
 - 📫 How to reach me " mallavarapusanthoshkumar@gmail.com "
 
 <!---
